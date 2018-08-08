@@ -19,4 +19,4 @@ D2 - SDA
 GND - GND
 
 ## Example Result
-![alt text](https://github.com/superipey/ExampleResult.png "Example Result")
+![alt text](https://github.com/superipey/rtc_ntp/blob/master/ExampleResult.png "Example Result")
