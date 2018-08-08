@@ -1,5 +1,5 @@
-# Init RTC Time from NTP
-Example code for adjust RTC Time from NTP
+# Init RTC Time from NTP Server
+Example code for adjust RTC Time from NTP Server
 
 ## How to Use
 - Clone / Download this repository to your pc
